@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Sat Dec  8 02:35:45 2018
+[*]
+[dumpfile] "/Users/kkurzweil/src/vigo/fpga/lh_sensor_tb.vcd"
+[dumpfile_mtime] "Sat Dec  8 02:34:30 2018"
+[dumpfile_size] 167148141
+[savefile] "/Users/kkurzweil/src/vigo/fpga/lh_sensor.gtkw"
+[timestart] 0
+[size] 1680 914
+[pos] -1 -1
+*-33.288509 29273524000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lh_sensor_tb.
+[treeopen] lh_sensor_tb.lh_sensor0.
+[sst_width] 193
+[signals_width] 167
+[sst_expanded] 1
+[sst_vpaned_height] 492
+@29
+lh_sensor_tb.sensor
+@28
+lh_sensor_tb.lh_sensor0.CLK
+lh_sensor_tb.lh_sensor0.SYNC
+@24
+lh_sensor_tb.lh_sensor0.AH[31:0]
+lh_sensor_tb.lh_sensor0.AV[31:0]
+lh_sensor_tb.lh_sensor0.BH[31:0]
+lh_sensor_tb.lh_sensor0.BV[31:0]
+@28
+lh_sensor_tb.lh_sensor0.axis[2:0]
+lh_sensor_tb.lh_sensor0.pulse_type[3:0]
+lh_sensor_tb.lh_sensor0.state[2:0]
+@24
+lh_sensor_tb.lh_sensor0.b_ticks[31:0]
+lh_sensor_tb.lh_sensor0.c_ticks[31:0]
+lh_sensor_tb.lh_sensor0.counter[31:0]
+@28
+lh_sensor_tb.lh_sensor0.RECVr[1:0]
+lh_sensor_tb.lh_sensor0.RECV_risingedge
+lh_sensor_tb.lh_sensor0.RECV_fallingedge
+[pattern_trace] 1
+[pattern_trace] 0
