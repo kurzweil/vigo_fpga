@@ -4,9 +4,9 @@ FPGA based functionality for a scaled autonomous race car
 For development install `APIO` and `tinyprog`:
 
 ```bash
-pip install apio==0.5.4 tinyprog
-apio install system scons icestorm iverilog
-apio drivers --serial-enable
+$ pip install apio==0.5.4 tinyprog
+$ apio install system scons icestorm iverilog
+$ apio drivers --serial-enable
 ```
 
 For testing install `arduino-mk`
